@@ -3,7 +3,7 @@
 
 Roteiro de estudos voltado ao backend, abrangendo Java, frameworks, SQL, bancos de dados e construção de APIs.
 
-### Curso em andamento: 
+### Curso finalizado: 
 
 🥋[DevDojo](https://youtube.com/@devdojobrasil?si=TxAn4vFZKq8qaoeH) - Maratona Java Virado no Jiraya 
 
